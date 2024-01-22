@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kishan payadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kishan payadi" height="30" width="40" /></a>
-<a href="https://www.instagram.com/kishan2_k_2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="icode24_7" height="30" width="40" /></a>
-<a href="https://discord.gg/#1268" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#1268" height="30" width="40" /></a>
-<a href="https://kishan2k2.github.io/Portfolio/" target="blank"><img align="center" src="https://github.com/kishan2k2/kishan2k2/assets/94215304/ff7ed8c4-95b5-4dbd-ad29-ea93053e4f6b" alt="#1268" height="30" width="40" /></a>
+<a href="https://www.instagram.com/kishan2_k_2/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="icode24_7" height="30" width="40" /></a>
+<a href="https://discord.gg/#1268" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#1268" height="30" width="40" /></a>
+<a href="https://kishan2k2.github.io/Portfolio/" target="_blank"><img align="center" src="https://github.com/kishan2k2/kishan2k2/assets/94215304/ff7ed8c4-95b5-4dbd-ad29-ea93053e4f6b" alt="#1268" height="30" width="40" /></a>
 </p>

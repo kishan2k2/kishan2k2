@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kishan2k2" alt="kishan2k2" /></a> </p>
 
-- 🌱 I have good command over Data Structures and Algorithms, Machine Learning, Deep Learning, and Flask.
+- 🌱 I have good command over Data Structures and Algorithms, Machine Learning, Deep Learning, and django.
 
 - 📫 How to reach me **Payadikishan@gmail.com**
 
